@@ -1,3 +1,11 @@
+# Futher Documentation
+
+Built using the lovely free trivia API provided by [Open Trivia DB](https://opentdb.com/api_config.php).
+
+#Links
+
+App deployed at ()
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
