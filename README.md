@@ -4,7 +4,7 @@ Built using the lovely free trivia API provided by [Open Trivia DB](https://open
 
 #Links
 
-App deployed at ()
+App deployed using [Github Pages] (https://lrk83.github.io/kevel-quiz-game/)
 
 # Getting Started with Create React App
 
