@@ -82,7 +82,7 @@ export const generateQuestionOptions = (question: Question) => {
   for (let x = 0; x < question.incorrect_answers.length; x++) {
     options.push({
       value: question.incorrect_answers[x],
-      label: decodeHtml(question.correct_answer),
+      label: decodeHtml(question.incorrect_answers[x]),
     });
   }
   return shuffle(options);
