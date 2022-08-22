@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/kevel-quiz-gane/static/css/main.073c9b0a.css",
-    "main.js": "/kevel-quiz-gane/static/js/main.a143a699.js",
-    "static/js/787.b8fb3a2a.chunk.js": "/kevel-quiz-gane/static/js/787.b8fb3a2a.chunk.js",
-    "static/media/logo.svg": "/kevel-quiz-gane/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/kevel-quiz-gane/index.html",
-    "main.073c9b0a.css.map": "/kevel-quiz-gane/static/css/main.073c9b0a.css.map",
-    "main.a143a699.js.map": "/kevel-quiz-gane/static/js/main.a143a699.js.map",
-    "787.b8fb3a2a.chunk.js.map": "/kevel-quiz-gane/static/js/787.b8fb3a2a.chunk.js.map"
+    "main.css": "/kevel-quiz-game/static/css/main.073c9b0a.css",
+    "main.js": "/kevel-quiz-game/static/js/main.449e990d.js",
+    "static/js/787.b8fb3a2a.chunk.js": "/kevel-quiz-game/static/js/787.b8fb3a2a.chunk.js",
+    "static/media/logo.svg": "/kevel-quiz-game/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/kevel-quiz-game/index.html",
+    "main.073c9b0a.css.map": "/kevel-quiz-game/static/css/main.073c9b0a.css.map",
+    "main.449e990d.js.map": "/kevel-quiz-game/static/js/main.449e990d.js.map",
+    "787.b8fb3a2a.chunk.js.map": "/kevel-quiz-game/static/js/787.b8fb3a2a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.a143a699.js"
+    "static/js/main.449e990d.js"
   ]
 }
