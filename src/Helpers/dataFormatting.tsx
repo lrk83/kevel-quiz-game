@@ -22,8 +22,6 @@ export const generateAPICall = (
   selectedCategory?: Category,
   questionType?: string
 ): string => {
-  console.log(selectedCategory);
-
   let route = BASE_QUESTIONS_ROUTE;
 
   if (difficulty) {
@@ -41,8 +39,6 @@ export const generateAPICall = (
   if (selectedCategory && !selectedCategory.id) {
     route += "&category=" + String(selectedCategory);
   }
-
-  console.log(route);
 
   return route;
 };

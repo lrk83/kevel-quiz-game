@@ -66,9 +66,6 @@ export const useQuizData = (): useQuizDataHooks => {
   };
 
   const submitAnswer = (ans: string, ques: Question): void => {
-    console.log(ans);
-    console.log(ques.correct_answer);
-
     if (ans === ques.correct_answer) {
       setScore(score + 1);
       setTravisText(TRAVIS_TEXT.correct[Math.abs(score)]);
