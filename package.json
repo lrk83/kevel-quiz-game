@@ -1,7 +1,7 @@
 {
   "name": "kevel-quiz",
   "version": "0.1.0",
-  "homepage": "https://lrk83.github.io/trivia-with-travis",
+  "homepage": "https://lrk83.github.io/kevel-quiz-gane",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
